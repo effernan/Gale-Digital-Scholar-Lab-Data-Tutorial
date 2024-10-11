@@ -9,11 +9,11 @@ The Digital Scholar Lab provides the option of downloading in separate CSV files
 
 Both dataframes share an ID identifier that can be used to merge them. Here goes a step-by-step set of Jupyter Notebooks showing how to do that:
 
-**1. Gale Metadata.** It contains code to parse the ID identfier found in the Metadata Gale Dataframe
-**2. Importing Text Data Gale.** It contains code to import the Content Set (title + text of the articles) 
-**3. Headers**. It contains code to clean the title of the Content Set and to parse the ID identifier that we need
-**4. Merging Dataframes**. It contains code to merge the Gale Metadata CSV and the Content Set CSV by the now cleaned ID identifier column
-**5. Body**. It contains code to clean and pre-process the text of the articles in the Content Set. 
+* **1. Gale Metadata.** It contains code to parse the ID identfier found in the Metadata Gale Dataframe
+* **2. Importing Text Data Gale.** It contains code to import the Content Set (title + text of the articles) 
+* **3. Headers**. It contains code to clean the title of the Content Set and to parse the ID identifier that we need
+* **4. Merging Dataframes**. It contains code to merge the Gale Metadata CSV and the Content Set CSV by the now cleaned ID identifier column
+* **5. Body**. It contains code to clean and pre-process the text of the articles in the Content Set. 
 
 The output is a CSV dataframe with clean article text and corresponding metadata.
 
