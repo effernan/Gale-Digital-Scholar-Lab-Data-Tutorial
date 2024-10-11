@@ -17,4 +17,6 @@ Both dataframes share an ID identifier that can be used to merge them. Here goes
 
 The output is a CSV dataframe with clean article text and corresponding metadata.
 
+**Important**. You will need to create a folder with the Content Set data in the same folder where you save these scripts. You will use a path in Notebook 2 to access that data.
+
 (c) Elena Fernández Fernández 2024
