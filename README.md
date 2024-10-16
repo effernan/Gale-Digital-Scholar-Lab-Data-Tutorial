@@ -1,6 +1,8 @@
 # Gale-Digital-Scholar-Lab-Data-Tutorial
 This is a tutorial to transform the text and metadata provided by Gale Digital Scholar Lab (https://www.gale.com/intl/primary-sources/digital-scholar-lab) into a user friendly CSV dataframe that can be used to implement Text Data Mining methodologies.
 
+If you would like to check whether your instution has access to any Gale Datasets please check this link: https://support.gale.com/locid
+
 The dataset used is **"The Times Digital Archive"** (https://www.gale.com/intl/c/the-times-digital-archive)
 
 The Digital Scholar Lab provides the option of downloading in separate CSV files:
@@ -18,5 +20,7 @@ Both dataframes share an ID identifier that can be used to merge them. Here goes
 The output is a CSV dataframe with clean article text and corresponding metadata.
 
 **Important**. You will need to create a folder with the Content Set data in the same folder where you save these scripts. You will use a path in Notebook 2 to access that data.
+
+To help Gale Digital Scholar Lab track their impact, please do cite them in your paper! 
 
 (c) Elena Fernández Fernández 2024
