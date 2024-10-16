@@ -1,5 +1,5 @@
 # Gale-Digital-Scholar-Lab-Data-Tutorial
-This is a tutorial to transform the text and metadata provided by Gale Digital Scholar Lab into a user friendly CSV dataframe that can be used to implement Text Data Mining methodologies.
+This is a tutorial to transform the text and metadata provided by Gale Digital Scholar Lab (https://www.gale.com/intl/primary-sources/digital-scholar-lab) into a user friendly CSV dataframe that can be used to implement Text Data Mining methodologies.
 
 The dataset used is **"The Times Digital Archive"** (https://www.gale.com/intl/c/the-times-digital-archive)
 
