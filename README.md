@@ -21,6 +21,6 @@ The output is a CSV dataframe with clean article text and corresponding metadata
 
 **Important**. You will need to create a folder with the Content Set data in the same folder where you save these scripts. You will use a path in Notebook 2 to access that data.
 
-To help Gale Digital Scholar Lab track their impact, please do cite them in your paper! 
+To help Gale Digital Scholar Lab track their impact, please do cite them in your paper! Please follow the citation style guidelines indicated in here: https://go.gale.com/ps/helpCenter?userGroupName=webdemo&nspage=true&prodId=DSLAB&docId=UCHJJN776013164&title=FAQ&sid=bookmark-DSLAB&asid=99347d7b#HowdoIcitetheworkIhavecompletedinGaleDigitalScholarLab 
 
 (c) Elena Fernández Fernández 2024
