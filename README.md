@@ -3,7 +3,7 @@ This is a tutorial to transform the text and metadata provided by Gale Digital S
 
 If you would like to check whether your instution has access to any Gale Datasets please check this link: https://support.gale.com/locid
 
-The dataset used is **"The Times Digital Archive"** (https://www.gale.com/intl/c/the-times-digital-archive)
+The dataset used in here is **"The Times Digital Archive"** (https://www.gale.com/intl/c/the-times-digital-archive)
 
 The Digital Scholar Lab provides the option of downloading in separate CSV files:
 - **Metadata** (Document Title, Content Type, Document Type, Publication Title, Publication Date, Publisher, Place of Publication, Author, Source Library, Gale Primary Source, Gale Document Number, Subject, Language).
